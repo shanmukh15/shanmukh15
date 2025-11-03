@@ -6,7 +6,13 @@
 
 </div>
 
----
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=shanmukh15&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+
 
 ## About Me
 
@@ -19,7 +25,17 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 - 🔬 **Experimenter** - Always testing new technologies and patterns
 - 💡 **Full Stack Capable** - Node.js, JavaScript, TypeScript expertise
 
----
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmukh15)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shanmukh15)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/shanmukh15)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@shanmukh.rao15@gmail.com)
+
+</div>
+
 
 ## 💻 Tech Stack & Skills
 
@@ -65,7 +81,20 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+
+## 📜 Certifications & Achievements
+
+<div align="center">
+
+### Cloud Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7b3d3d72-ecb3-4b9a-9949-7d54e7118311" data-share-badge-host="https://www.credly.com"></div>
+
+### Developer Cards
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shanmukh15)
+
+<a href="https://app.daily.dev/shanmukh15"><img src="https://api.daily.dev/devcards/v2/53da1d0f755c4e9bb99c945baed93843.png?type=wide&r=g5w" width="652" alt="shanmukha rao G's Dev Card"/></a>
+</div>
+
 
 ## 📊 GitHub Statistics
 
@@ -79,17 +108,7 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=shanmukh15&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -99,71 +118,14 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 
 </div>
 
----
 
-## 🌟 Featured Projects & Highlights
-
-<div align="center">
-
-<!-- Add your featured repositories here -->
-<!-- Example: [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanmukh15&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/shanmukh15/your-repo-name) -->
-
-🚀 Check out my repositories for exciting projects in React, AI/ML, and more!
-
-</div>
-
----
-
-## 📜 Certifications & Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-### Cloud Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7b3d3d72-ecb3-4b9a-9949-7d54e7118311" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-### Developer Cards
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shanmukh15)
-
-<a href="https://app.daily.dev/shanmukh15"><img src="https://api.daily.dev/devcards/v2/53da1d0f755c4e9bb99c945baed93843.png?type=wide&r=g5w" width="652" alt="shanmukha rao G's Dev Card"/></a>
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmukh15)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shanmukh15)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/shanmukh15)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@shanmukh.rao15@gmail.com)
+![Trophy](https://github-profile-trophy.vercel.app/?username=shanmukh15&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
-
----
-
-## 📚 Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- Stay tuned for insights on React, AI/ML, and Frontend Architecture!
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-
-### ⚡ Fun Fact
-*I debug with console.log() and I'm not ashamed! 🐛*
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=shanmukh15&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-**Thanks for visiting! Let's build something amazing together! **
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
