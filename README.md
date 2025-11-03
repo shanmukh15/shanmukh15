@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Shanmukh! 
+# Hi, I'm Shanmukha Rao
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Senior+Frontend+Engineer+%F0%9F%9A%80;UI%2FUX+Designer+%26+Architect+%F0%9F%8E%A8;React+%26+Ecosystem+Enthusiast+%E2%9A%9B%EF%B8%8F;AI%2FML+Experimenter+%F0%9F%A4%96;JavaScript+%26+Node.js+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 
@@ -8,9 +8,7 @@
 
 ---
 
-## 🚀 About Me
-
-> *Crafting elegant digital experiences through the intersection of design, development, and artificial intelligence*
+## About Me
 
 I'm a **Senior Frontend Engineer** passionate about building scalable, performant, and beautiful web applications. With a keen eye for design and a deep understanding of modern web technologies, I bridge the gap between stunning UI/UX and robust technical architecture.
 
@@ -103,23 +101,6 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 
 ---
 
-## 🎯 Current Focus
-
-```javascript
-const shanmukh = {
-    location: "🌍 Earth",
-    currentRole: "Senior Frontend Engineer",
-    currentlyLearning: ["LLMs & AI Integration", "Advanced React Patterns", "System Design"],
-    exploring: ["Next.js 14", "Server Components", "AI-Powered UIs"],
-    workingOn: ["Building AI-enhanced web experiences", "Open source contributions"],
-    interests: ["UI/UX Design", "Performance Optimization", "Developer Experience"],
-    askMeAbout: ["React", "JavaScript", "Node.js", "UI/UX", "Frontend Architecture"],
-    funFact: "I believe great UX is invisible - users should never have to think twice! ✨"
-};
-```
-
----
-
 ## 🌟 Featured Projects & Highlights
 
 <div align="center">
@@ -127,7 +108,7 @@ const shanmukh = {
 <!-- Add your featured repositories here -->
 <!-- Example: [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanmukh15&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/shanmukh15/your-repo-name) -->
 
-🚀 Check out my repositories below for exciting projects in React, AI/ML, and more!
+🚀 Check out my repositories for exciting projects in React, AI/ML, and more!
 
 </div>
 
@@ -138,12 +119,12 @@ const shanmukh = {
 <div align="center">
 
 ### Cloud Certifications
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure Certified](https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7b3d3d72-ecb3-4b9a-9949-7d54e7118311" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### Developer Cards
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shanmukh15)
 
+<a href="https://app.daily.dev/shanmukh15"><img src="https://api.daily.dev/devcards/v2/53da1d0f755c4e9bb99c945baed93843.png?type=wide&r=g5w" width="652" alt="shanmukha rao G's Dev Card"/></a>
 </div>
 
 ---
@@ -153,27 +134,11 @@ const shanmukh = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmukh15)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shanmukh15)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shanmukh15)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/shanmukh15)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@shanmukh15.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@shanmukh.rao15@gmail.com)
 
 </div>
-
----
-
-## 💡 Latest Insights
-
-```typescript
-// My development philosophy
-const developmentPrinciples = {
-    design: "User-first, accessible, and delightful",
-    code: "Clean, maintainable, and performant",
-    architecture: "Scalable, modular, and future-proof",
-    learning: "Continuous, experimental, and collaborative",
-    innovation: "AI-augmented, data-driven, and impactful"
-};
-```
 
 ---
 
@@ -190,14 +155,11 @@ const developmentPrinciples = {
 ### ⚡ Fun Fact
 *I debug with console.log() and I'm not ashamed! 🐛*
 
-### 💬 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shanmukh15&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-**Thanks for visiting! Let's build something amazing together! 🚀**
+**Thanks for visiting! Let's build something amazing together! **
 
 </div>
 
