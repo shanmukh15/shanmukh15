@@ -124,7 +124,10 @@ const shanmukh = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanmukh15&repo=shanmukh15&theme=radical&hide_border=true)](https://github.com/shanmukh15/shanmukh15)
+<!-- Add your featured repositories here -->
+<!-- Example: [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanmukh15&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/shanmukh15/your-repo-name) -->
+
+🚀 Check out my repositories below for exciting projects in React, AI/ML, and more!
 
 </div>
 
@@ -152,8 +155,8 @@ const shanmukh = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmukh15)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shanmukh15)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shanmukh15)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shanmukh15.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shanmukh15@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/shanmukh15)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@shanmukh15.com)
 
 </div>
 
