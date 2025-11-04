@@ -1,21 +1,16 @@
 <div align="center">
 
 # Hi, I'm Shanmukha Rao
+<br />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Senior+Frontend+Engineer+%F0%9F%9A%80;UI%2FUX+Designer+%26+Architect+%F0%9F%8E%A8;React+%26+Ecosystem+Enthusiast+%E2%9A%9B%EF%B8%8F;AI%2FML+Experimenter+%F0%9F%A4%96;JavaScript+%26+Node.js+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=shanmukh15&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<br />
+<br />
 
 </div>
-
-
 
 ## About Me
-
 I'm a **Senior Frontend Engineer** passionate about building scalable, performant, and beautiful web applications. With a keen eye for design and a deep understanding of modern web technologies, I bridge the gap between stunning UI/UX and robust technical architecture.
 
 - 🎨 **UI/UX Designer & Developer** - Creating intuitive and engaging user experiences
@@ -24,6 +19,9 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 - 🤖 **AI/ML Enthusiast** - Exploring Large Language Models and their applications
 - 🔬 **Experimenter** - Always testing new technologies and patterns
 - 💡 **Full Stack Capable** - Node.js, JavaScript, TypeScript expertise
+
+<br />
+
 
 ## 🤝 Connect With Me
 
@@ -36,9 +34,14 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 
 </div>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=shanmukh15&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+<br />
 
 ## 💻 Tech Stack & Skills
-
 ### Frontend Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -81,6 +84,7 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+<br />
 
 ## 📜 Certifications & Achievements
 
@@ -93,8 +97,30 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shanmukh15)
 
 <a href="https://app.daily.dev/shanmukh15"><img src="https://api.daily.dev/devcards/v2/53da1d0f755c4e9bb99c945baed93843.png?type=wide&r=g5w" width="652" alt="shanmukha rao G's Dev Card"/></a>
+
 </div>
 
+<br />
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shanmukh15&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+<br />
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=shanmukh15&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+<br />
 
 ## 📊 GitHub Statistics
 
@@ -105,25 +131,6 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanmukh15&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukh15&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shanmukh15&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=shanmukh15&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
