@@ -120,17 +120,10 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 
 ## 📜 Certifications & Achievements
 
-<div align="center">
-
-### Cloud Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7b3d3d72-ecb3-4b9a-9949-7d54e7118311" data-share-badge-host="https://www.credly.com"></div>
-
 ### Developer Cards
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shanmukh15)
 
-<a href="https://app.daily.dev/shanmukh15"><img src="https://api.daily.dev/devcards/v2/53da1d0f755c4e9bb99c945baed93843.png?type=wide&r=g5w" width="652" alt="shanmukha rao G's Dev Card"/></a>
-
-</div>
+<a href="https://app.daily.dev/shanmukh15"><img src="https://api.daily.dev/devcards/v2/53da1d0f755c4e9bb99c945baed93843.png?type=vertical&r=g5w" width="320" alt="shanmukha rao G's Dev Card"/></a>
+<a href="https://www.credly.com/badges/7b3d3d72-ecb3-4b9a-9949-7d54e7118311/public_url"><img src="https://raw.githubusercontent.com/shanmukh15/shanmukh15/assets/associate-cloud-engineer-certification.png" width="320" alt="shanmukha rao G's Cloud Certification"/></a>
 
 <br />
 
