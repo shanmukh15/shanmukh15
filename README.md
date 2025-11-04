@@ -126,13 +126,40 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanmukh15&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+<table>
+  
+<tr>
+  
+<td align="center" width="50%">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=shanmukh15&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanmukh15&theme=radical&hide_border=true)
+</td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukh15&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<td align="center" width="50%">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmukh15&theme=radical&hide_border=true" />
+
+</td>
+
+</tr>
+
+<tr>
+  
+<td colspan="2" align="center">
+  
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukh15&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
