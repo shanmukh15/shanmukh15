@@ -43,8 +43,6 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 
 ## 💻 Tech Stack & Skills
 
-<h2 align="center">💻 Tech Stack & Skills</h2>
-
 <div align="center">
 
 <table style="width:100%; border:none; border-collapse:collapse;">
