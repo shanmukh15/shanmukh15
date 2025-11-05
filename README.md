@@ -120,11 +120,19 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 
 ## 📜 Certifications & Achievements
 
-### Developer Cards
-
-<a href="https://app.daily.dev/shanmukh15"><img src="https://api.daily.dev/devcards/v2/53da1d0f755c4e9bb99c945baed93843.png?type=vertical&r=g5w" width="320" alt="shanmukha rao G's Dev Card"/></a>
-<a href="https://www.credly.com/badges/7b3d3d72-ecb3-4b9a-9949-7d54e7118311/public_url"><img src="https://raw.githubusercontent.com/shanmukh15/shanmukh15/assets/associate-cloud-engineer-certification.png" width="320" alt="shanmukha rao G's Cloud Certification"/></a>
-
+<div align="center">
+  
+<table style="border: none;">
+  <tr>
+    <td align="center" width="50%" style="border: none;">
+      <a href="https://app.daily.dev/shanmukh15"><img src="https://api.daily.dev/devcards/v2/53da1d0f755c4e9bb99c945baed93843.png?type=vertical&r=g5w" width="320" alt="shanmukha rao G's Dev Card"/></a>
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <a href="https://www.credly.com/badges/7b3d3d72-ecb3-4b9a-9949-7d54e7118311/public_url"><img src="https://raw.githubusercontent.com/shanmukh15/shanmukh15/main/assets/associate-cloud-engineer-certification.png" width="320" alt="shanmukha rao G's Cloud Certification"/></a>
+    </td>
+  </tr>
+</table>
+  
 <br />
 
 ## 📈 Contribution Graph
@@ -152,7 +160,6 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
 <div align="center">
   
 <table style="border-collapse: collapse; border: none; background: transparent;">
-  
   <tr>
     <td align="center" width="50%" style="border: none; background: transparent;">
       <img src="https://github-readme-stats.vercel.app/api?username=shanmukh15&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
@@ -161,7 +168,6 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmukh15&theme=radical&hide_border=true" />
     </td>
   </tr>
-  
   <tr>
     <td colspan="2" align="center" style="border: none; background: transparent;">
       <br>
@@ -169,7 +175,6 @@ I'm a **Senior Frontend Engineer** passionate about building scalable, performan
       <br><br>
     </td>
   </tr>
-  
 </table>
 
 </div>
